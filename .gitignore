@@ -73,3 +73,7 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+SJam/Saved/Logs/SJam.log
+/SJam/DerivedDataCache
+/SJam/Intermediate
+SJam/Saved/Config/CrashReportClient/UECC-Windows-B62DE2EB40485ADFABC3858FDB1CD2F8/CrashReportClient.ini
